@@ -1,5 +1,5 @@
 
-# Financial-Mathematics-Project
+# Financial Mathematics Project
 
 Welcome to my Topics in Financial Mathematics Final Project repository. This project involves a detailed analysis of contingent claims on Goldman Sachs, a publicly traded stock, using Octave – a MATLAB-compatible free software.
 
