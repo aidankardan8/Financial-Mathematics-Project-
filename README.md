@@ -13,7 +13,7 @@ Octave was chosen for its compatibility with MATLAB and its robust features suit
 Key results and data visualizations from the project are available in the Aidan_Ashrafi_Math456_FinalProject pdf. These include graphs, and key outputs relevant to the project tasks. 
 
 ## Questions or Comments 
-Please feel free to reach out to me at a.a.ashrafi@wustl.edu with any questions or comments! 
+Please feel free to reach out to me at aidan.kardan@wustl.edu with any questions or comments! 
 
 
 
